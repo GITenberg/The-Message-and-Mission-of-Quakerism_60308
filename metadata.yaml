@@ -1,0 +1,40 @@
+_repo: The-Message-and-Mission-of-Quakerism_60308
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Jones, Rufus M. (Rufus Matthew)
+    alias: Jones, Rufus Matthew
+    birthdate: 1863
+    deathdate: 1948
+    gutenberg_agent_id: '6478'
+    url: http://www.gutenberg.org/2009/agents/6478
+    wikipedia: http://en.wikipedia.org/wiki/Rufus_Jones
+creator:
+  authors:
+  - agent_name: Hodgkin, Henry T. (Henry Theodore)
+    birthdate: 1877
+    deathdate: 1933
+    gutenberg_agent_id: '50888'
+    url: http://www.gutenberg.org/2009/agents/50888
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Hodgkin
+  - agent_name: Braithwaite, William C. (William Charles)
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '50887'
+    url: http://www.gutenberg.org/2009/agents/50887
+    wikipedia: https://en.wikipedia.org/wiki/William_Charles_Braithwaite
+description: ''
+gutenberg_issued: '2019-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Society of Friends'
+- GITenberg
+title: The Message and Mission of Quakerism
+url: http://www.gutenberg.org/ebooks/60308
